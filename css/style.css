@@ -20,7 +20,7 @@ font-family: 'Sriracha', cursive;
 
 .corpo {
 	margin: 0px auto;
-	max-width: 720px;
+	max-width: 450px;
 /* 	background-image: url("../imagens/pexels-emre-can-acer-2079452.jpg"); */
 /* 	background-size: cover; */
 }
@@ -91,11 +91,13 @@ section.imagem > p {
 }
 
 section#img01 {
-	background-image: url("../imagens/pexels-rakicevic-nenad-1274260.jpg");
+	background-image: url("../imagens/image1.jpg");
+	background-position: center center;
 }
 
 section#img02 {
-	background-image: url("../imagens/pexels-rulo-mora-14075064.jpg");
+	background-image: url("../imagens/image2.png");
+	background-position: center right;
 }
 
 footer {
