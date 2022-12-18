@@ -41,7 +41,7 @@ font-family: 'Sriracha', cursive;
 html, body {
 	height: 100%;
 	width: 100%;
-	font: 16px var(--txtn);
+	font: 18px var(--txtn);
 	background-color: #FAEBD7;
 }
 
